@@ -272,6 +272,8 @@ return [
     'rule_trigger_description_contains'          => 'Omschrijving bevat ":trigger_value"',
     'rule_trigger_description_is_choice'         => 'Omschrijving is..',
     'rule_trigger_description_is'                => 'Omschrijving is ":trigger_value"',
+    'rule_trigger_description_regex'             => 'Omschrijving bevat regex ":trigger_value"',
+    'rule_trigger_description_regex_choice'      => 'Omschrijving bevat regex..',
     'rule_trigger_budget_is_choice'              => 'Budget is..',
     'rule_trigger_budget_is'                     => 'Budget is ":trigger_value"',
     'rule_trigger_tag_is_choice'                 => '(Een) tag is..',

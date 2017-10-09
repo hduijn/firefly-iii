@@ -190,6 +190,7 @@ return [
         'description_contains'  => 'FireflyIII\TransactionRules\Triggers\DescriptionContains',
         'description_is'        => 'FireflyIII\TransactionRules\Triggers\DescriptionIs',
         'transaction_type'      => 'FireflyIII\TransactionRules\Triggers\TransactionType',
+        'description_regex'     => 'FireflyIII\TransactionRules\Triggers\DescriptionRegex',
         'category_is'           => 'FireflyIII\TransactionRules\Triggers\CategoryIs',
         'budget_is'             => 'FireflyIII\TransactionRules\Triggers\BudgetIs',
         'tag_is'                => 'FireflyIII\TransactionRules\Triggers\TagIs',
